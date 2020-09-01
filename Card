@@ -1,20 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T19:32:09.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="59N5w3lCZ7gT9gg4TKQw" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T19:45:16.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="GSSk-_IQ2Y3mu5gSRkI6" version="13.6.6" type="github">
   <diagram id="H6-Ql18UyzjBU7EwZPD1" name="Page-1">
-    <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZjRYYbVJCE193oRxM3to-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
+        <mxCell id="ZjRYYbVJCE193oRxM3to-13" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="20" y="78" width="510" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="ZjRYYbVJCE193oRxM3to-5" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="78" width="510" height="330" as="geometry" />
+        <mxCell id="ZjRYYbVJCE193oRxM3to-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="ZjRYYbVJCE193oRxM3to-13">
+          <mxGeometry width="510" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="ZjRYYbVJCE193oRxM3to-6" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="450" width="510" height="330" as="geometry" />
+        <mxCell id="ZjRYYbVJCE193oRxM3to-9" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Title&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;spacing=2;fontSize=24;" vertex="1" parent="ZjRYYbVJCE193oRxM3to-13">
+          <mxGeometry x="167.5" y="32" width="175" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZjRYYbVJCE193oRxM3to-7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="450" width="510" height="330" as="geometry" />
+        <mxCell id="ZjRYYbVJCE193oRxM3to-10" value="&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; font-size: 16.2px ; letter-spacing: -0.0486px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Lorem ipsum dolor sit amet consectetur adipiscing elit, ullamcorper a volutpat arcu orci imperdiet, pulvinar nibh at dictum egestas eget. Etiam commodo ultrices semper ultricies metus porttitor class, a blandit ad augue ligula feugiat per, lectus tellus eu laoreet dictum cum. Eu cubilia condimentum sem tristique ultrices hac litora curae taciti ...&amp;nbsp; ...&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;arcSize=6;align=left;" vertex="1" parent="ZjRYYbVJCE193oRxM3to-13">
+          <mxGeometry x="20" y="102" width="470" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjRYYbVJCE193oRxM3to-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="80" width="510" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjRYYbVJCE193oRxM3to-16" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="ZjRYYbVJCE193oRxM3to-15">
+          <mxGeometry width="510" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjRYYbVJCE193oRxM3to-17" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Title&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;spacing=2;fontSize=24;" vertex="1" parent="ZjRYYbVJCE193oRxM3to-15">
+          <mxGeometry x="167.5" y="32" width="175" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjRYYbVJCE193oRxM3to-18" value="&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; font-size: 16.2px ; letter-spacing: -0.0486px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Lorem ipsum dolor sit amet consectetur adipiscing elit, ullamcorper a volutpat arcu orci imperdiet, pulvinar nibh at dictum egestas eget. Etiam commodo ultrices semper ultricies metus porttitor class, a blandit ad augue ligula feugiat per, lectus tellus eu laoreet dictum cum. Eu cubilia condimentum sem tristique ultrices hac litora curae taciti ...&amp;nbsp; ...&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;arcSize=6;align=left;" vertex="1" parent="ZjRYYbVJCE193oRxM3to-15">
+          <mxGeometry x="20" y="102" width="470" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjRYYbVJCE193oRxM3to-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="460" width="510" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjRYYbVJCE193oRxM3to-21" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="ZjRYYbVJCE193oRxM3to-20">
+          <mxGeometry width="510" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjRYYbVJCE193oRxM3to-22" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Title&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;spacing=2;fontSize=24;" vertex="1" parent="ZjRYYbVJCE193oRxM3to-20">
+          <mxGeometry x="167.5" y="32" width="175" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjRYYbVJCE193oRxM3to-23" value="&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; font-size: 16.2px ; letter-spacing: -0.0486px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Lorem ipsum dolor sit amet consectetur adipiscing elit, ullamcorper a volutpat arcu orci imperdiet, pulvinar nibh at dictum egestas eget. Etiam commodo ultrices semper ultricies metus porttitor class, a blandit ad augue ligula feugiat per, lectus tellus eu laoreet dictum cum. Eu cubilia condimentum sem tristique ultrices hac litora curae taciti ...&amp;nbsp; ...&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;arcSize=6;align=left;" vertex="1" parent="ZjRYYbVJCE193oRxM3to-20">
+          <mxGeometry x="20" y="102" width="470" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjRYYbVJCE193oRxM3to-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="460" width="510" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjRYYbVJCE193oRxM3to-25" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="ZjRYYbVJCE193oRxM3to-24">
+          <mxGeometry width="510" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjRYYbVJCE193oRxM3to-26" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Title&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;spacing=2;fontSize=24;" vertex="1" parent="ZjRYYbVJCE193oRxM3to-24">
+          <mxGeometry x="167.5" y="32" width="175" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjRYYbVJCE193oRxM3to-27" value="&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , sans-serif ; font-size: 16.2px ; letter-spacing: -0.0486px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Lorem ipsum dolor sit amet consectetur adipiscing elit, ullamcorper a volutpat arcu orci imperdiet, pulvinar nibh at dictum egestas eget. Etiam commodo ultrices semper ultricies metus porttitor class, a blandit ad augue ligula feugiat per, lectus tellus eu laoreet dictum cum. Eu cubilia condimentum sem tristique ultrices hac litora curae taciti ...&amp;nbsp; ...&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;arcSize=6;align=left;" vertex="1" parent="ZjRYYbVJCE193oRxM3to-24">
+          <mxGeometry x="20" y="102" width="470" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
