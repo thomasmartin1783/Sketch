@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T18:16:35.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="CLP3zr3LdXvFb6q5H1jW" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-13T18:22:07.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="zeNKycFVCOGx1FZsNnbl" version="13.6.6" type="github">
   <diagram id="jQKXH2-iV5B42ja8aQHk" name="Page-1">
     <mxGraphModel dx="1221" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -22,8 +22,8 @@
         <mxCell id="wHe4uk9Z3ZLrEEIRu-n8-5" value="&lt;font style=&quot;font-size: 36px&quot;&gt;civilMeasurments&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="240" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wHe4uk9Z3ZLrEEIRu-n8-6" value="&lt;span style=&quot;font-size: 36px&quot;&gt;architecture&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="240" width="280" height="80" as="geometry" />
+        <mxCell id="wHe4uk9Z3ZLrEEIRu-n8-6" value="&lt;span style=&quot;font-size: 36px&quot;&gt;architecturalDesign&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="240" width="310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wHe4uk9Z3ZLrEEIRu-n8-7" value="&lt;span style=&quot;font-size: 36px&quot;&gt;Villa&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1120" width="280" height="80" as="geometry" />
